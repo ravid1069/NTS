@@ -1413,6 +1413,11 @@ body{
 .showcard h2 {
   font-weight: bold;
 }
+.showcard img{
+  border-radius: 10px;
+  margin: 10px 40px 10px 10px;
+
+}
 .bottom3 {
   margin-top: 2rem;
 }
